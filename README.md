@@ -69,5 +69,5 @@ python hand_gesture_mouse.py
 
 <img width="637" height="513" alt="Screenshot 2026-07-06 133622" src="https://github.com/user-attachments/assets/04530dd1-6de8-4515-bb66-6e6f4f4e22a3" />
 
-<img width="637" height="513" alt="Screenshot 2026-07-06 133622" src="https://github.com/user-attachments/assets/88b48d97-13e9-444b-9288-01a98f0846e6" />
+<img width="648" height="506" alt="Screenshot 2026-07-06 133852" src="https://github.com/user-attachments/assets/de09e1b5-9c68-4e2e-a7b4-1ad102295eef" />
 
