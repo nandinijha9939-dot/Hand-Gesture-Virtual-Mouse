@@ -43,3 +43,26 @@ pip install -r requirements.txt
 ```bash
 python hand_gesture_mouse.py
 ```
+
+## 🎮 Gesture Controls
+
+| Gesture | Action |
+|----------|--------|
+| Open Hand | Move Cursor |
+| Pinch | Left Click |
+| Pinch & Hold | Drag |
+| Fist | Right Click |
+| Two Fingers Up | Scroll Up |
+| Two Fingers Down | Scroll Down |
+| Three Fingers | Middle Click |
+| Thumb Up | Volume Up |
+| Thumb Down | Volume Down |
+
+## 🚀 Future Improvements
+- Multi-hand support
+- Brightness control
+- Zoom gestures
+- Custom gesture training
+- Virtual keyboard
+
+
